@@ -1,4 +1,4 @@
-# markdown-it-expand-tabs
+# markdown-expands-tab
 
 A [markdown-it](https://www.npmjs.com/package/markdown-it) plugin to replace leading tabs with spaces in code blocks
 
