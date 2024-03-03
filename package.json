@@ -10,6 +10,7 @@
         "type": "git",
         "url": "https://github.com/ThanhTuan1695/markdown-expands-tab.git"
     },
+    "website": "https://github.com/ThanhTuan1695/markdown-expands-tab.git",
     "devDependencies": {
         "mocha": "^5.0.3"
     },
@@ -32,7 +33,6 @@
     "dependencies": {
         "lodash.repeat": "^4.0.0",
         "markdown-expands-tab": "^1.0.1",
-        "markdown-it": "^8.0.1",
-        "user": "^0.0.0"
+        "markdown-it": "^8.0.1"
     }
 }
