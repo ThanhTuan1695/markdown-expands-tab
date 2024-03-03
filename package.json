@@ -33,6 +33,8 @@
     "dependencies": {
         "lodash.repeat": "^4.0.0",
         "markdown-expands-tab": "^1.0.1",
-        "markdown-it": "^8.0.1"
+        "markdown-it": "^8.0.1",
+        "urlbitbucket-to-object": "^1.0.1",
+        "urlgithub-to-object": "^1.0.2"
     }
 }
